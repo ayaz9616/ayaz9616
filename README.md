@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohammad Ayaz</h1>
-<h3 align="center" style="font-weight: 400; color: #666;">
-  A full-stack web developer passionate about building modern, scalable applications with the MERN stack and Next.js.
+<h3 align="center" style="font-weight: 400; color: #0070f3; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 700px; margin: 0 auto; line-height: 1.6em;">
+  Energetic full-stack developer with expertise in MERN stack and Next.js, dedicated to building cutting-edge, scalable, and high-performance web applications. Passionate about clean architecture, responsive design, API-driven development, and leveraging modern frameworks and tools to create seamless, intuitive user experiences. Committed to continuous learning and innovation, I strive to deliver impactful digital solutions that effortlessly scale and adapt to evolving technology landscapes.
 </h3>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ayaz9616&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
