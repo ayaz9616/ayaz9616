@@ -21,6 +21,7 @@
 
 ### 🛠️ Languages and Tools
 
+<!-- Languages and Tools -->
 <p align="center">
   <!-- Frontend -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
@@ -33,20 +34,20 @@
   <!-- Styling & UI -->
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" />
   <img src="https://ui.shadcn.com/apple-touch-icon.png" alt="Shadcn UI" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/framer/logo/main/logo.png" alt="Framer Motion" width="40" height="40" />
-  <img src="https://lucide.dev/logo/logo.svg" alt="Lucide Icons" width="40" height="40" />
+  <img src="https://framerusercontent.com/images/FramerIcon.svg" alt="Framer Motion" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/lucide.svg" alt="Lucide Icons" width="40" height="40" />
 
   <!-- Backend & Realtime -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" alt="Socket.IO" width="40" height="40" />
-  <img src="https://storage.googleapis.com/convex-public/images/logo-dark-icon.png" alt="Convex" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/prismaio/prismaio-icon.svg" alt="Prisma" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/zegocloud/zegocloud-icon.svg" alt="ZegoCloud" width="40" height="40" />
+  <img src="https://www.convex.dev/_next/static/media/logo-dark-icon.7e3b7bcb.svg" alt="Convex" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/prisma/presskit/main/logos/PNG/prisma-logo.png" alt="Prisma" width="40" height="40" />
+  <img src="https://static.zegocloud.com/_nuxt/img/logo.3f4a0d0.svg" alt="ZegoCloud" width="40" height="40" />
 
   <!-- Auth -->
   <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt="Clerk" width="40" height="40" />
-  <img src="https://authjs.dev/img/logo/logo-sm.png" alt="NextAuth" width="40" height="40" />
+  <img src="https://github.com/nextauthjs/next-auth/blob/main/docs/static/img/logo/logo.png?raw=true" alt="NextAuth" width="40" height="40" />
   <img src="https://cdn.auth0.com/styleguide/components/1.0.8/media/logos/img/badge.png" alt="Auth0" width="40" height="40" />
 
   <!-- DB & Storage -->
@@ -67,8 +68,7 @@
 
 ---
 
-### 🔗 Connect with me:
-
+<!-- Connect with me -->
 <p align="center">
   <a href="https://www.linkedin.com/in/mohammad-ayaz-960711226/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -89,8 +89,6 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef.svg" alt="CodeChef" height="30" width="40" />
   </a>
 </p>
-
----
 
 <div align="center">
 
