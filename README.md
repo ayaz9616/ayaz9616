@@ -1,39 +1,16 @@
 <h1 align="center">Hi 👋, I'm Mohammad Ayaz</h1>
 <h3 align="center">A full-stack web developer passionate about building modern, scalable applications with the MERN stack and Next.js.</h3>
 
-3 months ago
-
-Update README.md
 <p align="centre"> <img src="https://komarev.com/ghpvc/?username=ayaz9616&label=Profile%20views&color=0e75b6&style=flat" alt="Mohammad Ayaz" /> </p>
-5 months ago
-
-Create README.md
-
-3 months ago
-
-Update README.md
-
-5 months ago
-
-Create README.md
 
 - 🌱 I’m currently learning Advanced Next.js, TypeScript, and building full-stack apps with modern UI/UX
 
 - 👨‍💻 All of my projects are available at https://github.com/ayaz9616?tab=repositories
 
-2 months ago
-
-Update README.md
 - 💬 Ask me about MERN Stack, Next.js, RESTful APIs, TypeScript, and Full-Stack Web Development
-5 months ago
-
-Create README.md
 
 - 📫 How to reach me **ayaz9616835404@gmail.com**
 
-3 months ago
-
-Update README.md
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <!-- Frontend -->
