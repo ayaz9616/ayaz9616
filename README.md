@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohammad Ayaz</h1>
-<h3 align="center" style="font-weight: 400; color: #0070f3; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 700px; margin: 0 auto; line-height: 1.6em;">
-  Energetic full-stack developer with expertise in MERN stack and Next.js, dedicated to building cutting-edge, scalable, and high-performance web applications. Passionate about clean architecture, responsive design, API-driven development, and leveraging modern frameworks and tools to create seamless, intuitive user experiences. Committed to continuous learning and innovation, I strive to deliver impactful digital solutions that effortlessly scale and adapt to evolving technology landscapes.
+<h3 align="justify" style="font-weight: 400; color: #0070f3; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 700px; margin: 0 auto; line-height: 1.6em;">I am highly skilled in a diverse range of technologies, tools, and frameworks that empower me to design and develop complete, end-to-end web solutions. My expertise extends across both front-end and back-end ecosystems — from building dynamic user interfaces with React.js and Next.js to developing robust server-side architectures using Node.js, Express.js, Java, and Spring Boot. I have hands-on experience with modern databases such as MongoDB and PostgreSQL, enabling me to design systems that are both scalable and efficient.
+
+I take a craftsmanship-driven approach to development — ensuring that every line of code serves a clear purpose and contributes to a maintainable, performant product. My proficiency in RESTful API design, state management with Redux, and responsive design using Tailwind CSS allows me to deliver seamless user experiences that are as reliable as they are elegant.
+
+What sets me apart is my ability to bridge creativity with technical precision — transforming complex ideas into intuitive, production-ready solutions that scale confidently in the real world.
 </h3>
 
 
@@ -15,7 +18,9 @@
 - 🌱 Currently diving deeper into **Advanced Next.js**, **TypeScript**, and crafting full-stack apps with modern UI/UX  
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/ayaz9616?tab=repositories)  
 - 💬 Ask me about **MERN Stack**, **Next.js**, **RESTful APIs**, **TypeScript**, and **Full-Stack Web Development**  
-- 📫 Reach me at **[ayaz9616835404@gmail.com](mailto:ayaz9616835404@gmail.com)**
+- 📫 Reach me at **[ayaz9616835404@gmail.com](mailto:ayaz9616835404@gmail.com)**  
+- 🔗 Connect with me on **[LinkedIn](https://www.linkedin.com/in/ayaz96/)**
+
 
 ---
 
