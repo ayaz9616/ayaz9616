@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohammad Ayaz</h1>
-<h3 align="justify" style="font-weight: 400; color: #0070f3; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 700px; margin: 0 auto; line-height: 1.6em;">I am highly skilled in a diverse range of technologies, tools, and frameworks that empower me to design and develop complete, end-to-end web solutions. My expertise extends across both front-end and back-end ecosystems — from building dynamic user interfaces with React.js and Next.js to developing robust server-side architectures using Node.js, Express.js, Java, and Spring Boot. I have hands-on experience with modern databases such as MongoDB and PostgreSQL, enabling me to design systems that are both scalable and efficient.
+<h3 align="justify" style="font-weight: 400; color: #0070f3; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 700px; margin: 0 auto; line-height: 1.6em;">
+I am highly skilled in a diverse range of technologies, tools, and frameworks that empower me to design and develop complete, end-to-end web solutions. My expertise extends across both front-end and back-end ecosystems — from building dynamic user interfaces with React.js and Next.js to developing robust server-side architectures using Node.js, Express.js, Java, and Spring Boot. I have hands-on experience with modern databases such as MongoDB and PostgreSQL, enabling me to design systems that are both scalable and efficient.
 
 I take a craftsmanship-driven approach to development — ensuring that every line of code serves a clear purpose and contributes to a maintainable, performant product. My proficiency in RESTful API design, state management with Redux, and responsive design using Tailwind CSS allows me to deliver seamless user experiences that are as reliable as they are elegant.
 
 What sets me apart is my ability to bridge creativity with technical precision — transforming complex ideas into intuitive, production-ready solutions that scale confidently in the real world.
 </h3>
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ayaz9616&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -19,13 +19,24 @@ What sets me apart is my ability to bridge creativity with technical precision �
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/ayaz9616?tab=repositories)  
 - 💬 Ask me about **MERN Stack**, **Next.js**, **RESTful APIs**, **TypeScript**, and **Full-Stack Web Development**  
 - 📫 Reach me at **[ayaz9616835404@gmail.com](mailto:ayaz9616835404@gmail.com)**  
-- 🔗 Connect with me on **[LinkedIn](https://www.linkedin.com/in/ayaz96/)**
+- 🔗 Connect with me on **[LinkedIn](https://www.linkedin.com/in/ayaz96/)**  
 
+---
+
+### 🏅 Open Source & Hacktoberfest
+
+I actively contribute to open-source projects, focusing on improving developer tools, documentation, and UI components.  
+During **Hacktoberfest**, I submitted multiple meaningful PRs that got merged into public repositories — enhancing accessibility, performance, and user experience across community projects.  
+
+<p align="center">
+  <a href="https://holopin.io/@ayaz9616" target="_blank">
+    <img src="https://holopin.me/ayaz9616" alt="@ayaz9616's Holopin badges" />
+  </a>
+</p>
 
 ---
 
 ### 🛠️ Languages and Tools
-
 <!-- Languages and Tools -->
 <p align="center">
   <!-- Frontend -->
@@ -102,7 +113,7 @@ What sets me apart is my ability to bridge creativity with technical precision �
 
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayaz9616" alt="GitHub Streak" style="margin-top: 10px;" />
-</p>
+</p> 
 
 <p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayaz9616&radius=16&theme=react&area=true&order=5" height="300" alt="Activity Graph" />
