@@ -1,10 +1,13 @@
-<h1 align="center">Hi 👋, I'm Mohammad Ayaz</h1>
+<h1 align="center">Hi 👋, I am Mohammad Ayaz</h1>
+
 <h3 align="justify" style="font-weight: 400; color: #0070f3; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 700px; margin: 0 auto; line-height: 1.6em;">
-I am highly skilled in a diverse range of technologies, tools, and frameworks that empower me to design and develop complete, end-to-end web solutions. My expertise extends across both front-end and back-end ecosystems — from building dynamic user interfaces with React.js and Next.js to developing robust server-side architectures using Node.js, Express.js, Java, and Spring Boot. I have hands-on experience with modern databases such as MongoDB and PostgreSQL, enabling me to design systems that are both scalable and efficient.
+I am a full-stack developer with a strong focus on building AI-powered applications and scalable web platforms. My expertise lies in combining modern web technologies with Generative AI to create intelligent, real-world solutions.
 
-I take a craftsmanship-driven approach to development — ensuring that every line of code serves a clear purpose and contributes to a maintainable, performant product. My proficiency in RESTful API design, state management with Redux, and responsive design using Tailwind CSS allows me to deliver seamless user experiences that are as reliable as they are elegant.
+I specialize in developing end-to-end applications using Next.js, React, Node.js, and TypeScript, while integrating advanced AI capabilities through tools like LangChain, vector databases, and LLM APIs. I have hands-on experience building systems such as AI assistants, real-time applications, and data-driven platforms that are both scalable and production-ready.
 
-What sets me apart is my ability to bridge creativity with technical precision — transforming complex ideas into intuitive, production-ready solutions that scale confidently in the real world.
+I follow a clean and structured approach to development, ensuring performance, maintainability, and clarity in every project. From designing RESTful APIs to managing state and crafting responsive UI with Tailwind CSS, I focus on delivering seamless and impactful user experiences.
+
+What sets me apart is my ability to blend AI with full-stack engineering — turning complex ideas into practical, intelligent products that solve real problems and scale efficiently.
 </h3>
 
 <p align="center">
@@ -15,12 +18,16 @@ What sets me apart is my ability to bridge creativity with technical precision �
 
 ### 🚀 About Me
 
-- 🌱 Currently diving deeper into **Advanced Next.js**, **TypeScript**, and crafting full-stack apps with modern UI/UX  
-- 👨‍💻 All of my projects are available on [GitHub](https://github.com/ayaz9616?tab=repositories)  
-- 💬 Ask me about **MERN Stack**, **Next.js**, **RESTful APIs**, **TypeScript**, and **Full-Stack Web Development**  
-- 📫 Reach me at **[ayaz9616835404@gmail.com](mailto:ayaz9616835404@gmail.com)**  
-- 🔗 Connect with me on **[LinkedIn](https://www.linkedin.com/in/ayaz96/)**  
+- 🤖 Building **AI-powered full-stack applications** using LLMs, LangChain, and vector databases  
+- 🌱 Currently learning **Advanced Next.js, TypeScript, and GenAI system design**  
+- 🧠 Strong in **MERN Stack + AI integration (RAG, Agents, APIs)**  
+- 👨‍💻 Projects include **AI assistants, real-time apps, and scalable web platforms**  
+- 🔗 GitHub: https://github.com/ayaz9616  
+- 💬 Ask me about **Full Stack Development, GenAI, Next.js, APIs, and System Design**  
+- 📫 Email: ayaz9616835404@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/mohammad-ayaz-960711226/
 
+---
 ---
 
 ### 🏅 Open Source & Hacktoberfest
