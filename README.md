@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I am Mohammad Ayaz</h1>
-
+<p>
+  <img src="https://camo.githubusercontent.com/43e6534f368e942df0561f83a64f46f4a108d3f1509ee63efddb5532c8e795f3/68747470733a2f2f6769746875622d70726f64756374696f6e2d757365722d61737365742d3632313064662e73332e616d617a6f6e6177732e636f6d2f37343033383139302f3234323339303532342d30633765623665642d363633622d346365342d626662642d3138323339613338626131622e676966" alt="Fun GIF" style="margin-top: 20px;" />
+</p>
 <h3 align="justify" style="font-weight: 400; color: #0070f3; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 700px; margin: 0 auto; line-height: 1.6em;">
 I am a full-stack developer with a strong focus on building AI-powered applications and scalable web platforms. My expertise lies in combining modern web technologies with Generative AI to create intelligent, real-world solutions.
 
@@ -126,8 +128,6 @@ During **Hacktoberfest**, I submitted multiple meaningful PRs that got merged in
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayaz9616&radius=16&theme=react&area=true&order=5" height="300" alt="Activity Graph" />
 </p>
 
-<p>
-  <img src="https://github.com/siddiq0611/git_repo/blob/main/grid_snake.svg" alt="Fun GIF" style="margin-top: 20px;" />
-</p>
+
 
 </div>
